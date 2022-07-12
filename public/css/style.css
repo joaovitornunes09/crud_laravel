@@ -1,0 +1,76 @@
+.navbar{
+    border-bottom: solid 1px black;
+}
+
+/*Tabela de produtos*/
+.h1-produtos{
+    padding: 20px;
+    text-align: center;
+}
+.h2_produto{
+    display: block;
+    margin: 15px auto;
+    text-align: center;
+    padding:15px 0px;
+}
+.table{
+    width: 1500px;
+    margin: 0 auto;
+  
+
+}
+.altera_produtos{
+    display: flex;
+    align-items: center;
+    
+    margin: 15px auto;
+    
+}
+.produtos-buttons{
+    gap: 15px;
+    margin: 15px auto;
+    justify-items: center;
+
+    
+}
+/*Pesquisa de produtos*/
+.form-label{
+    text-align: center;
+    font-size: 2.5rem;
+}
+.form_pesquisa{
+    text-align: center;
+}
+#pesquisa_produto{
+    width: 1200px;
+    margin: 20px auto;
+}
+#form_contato{
+    width: 1200px;
+    
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(44, 44, 44);
+}
+.bg-contato{
+    display: flex;
+    padding-top: 40px;
+    align-items: center;
+    justify-content: center;
+    height: 93.9vh;
+}
+.bg-produtos{
+    
+    width: 1200px;
+    margin: 30px auto 0px auto;
+    
+    padding: 40px;
+    
+    border-radius: 20px;
+}
+.usuario-pesquisado{
+    width: 1200px;
+    margin: 30px auto 0px auto;
+    
+}
+
