@@ -7,5 +7,6 @@
 *.php diff=php
 *.php linguist-detectable=true
 *.js linguist-detectable=true
+*jquery.js linguist-vendored=true
 /.github export-ignore
 CHANGELOG.md export-ignore
